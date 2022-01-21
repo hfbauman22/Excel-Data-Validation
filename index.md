@@ -1,5 +1,5 @@
 ## Data Validation in Excel
-######Harry Bauman
+###### Harry Bauman
 
 <!-- Talk about what it is -->
 

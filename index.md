@@ -86,6 +86,16 @@ Select cell B6, then repeat Step 4 and enter the following information in the va
 
 ![](gradesettings.png)
 
+## Helpful error messages and prompts
+If you desire, you can add messages prompting the user for the information you want in each cell and a descriptive error message that Excel can display if something goes wrong. These can be accessed in the "Input Message" and "Error Alert" tabs after performing Step 4. An example is shown below with the inputted messages and results:
+
+![](inputmessage.png)
+![](inputresult.png)
+
+![](errormessage.png)
+![](errorresult.png)
+
+## Additional information and resources
 <!-- Link to an excel spreadsheet -->
 You can view the example spreadsheet (with the above steps completed) [here](ExampleSpreadsheet.xlsx).
 

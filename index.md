@@ -37,6 +37,18 @@ You should begin by opening Excel. If you have a specific spreadsheet that you w
 If you are starting from scratch, you should open a blank workbook.
 ![](excelopeningscreen.png)
 
+## Step 2 - Label cells, columns, or rows
+If appropriate, you should label your data so that any readers can easily understand what is being recorded in your spreadsheet. In this example, I am creating a header for a template file that students could use when submitting assignments. It contains the student's first name, last name, school ID number, date, assignment title, and grade. We will use the data validation tool to ensure that the students don't enter weird information in the corresponding cells so that we can use automation in Excel to process the assignments.
+![](excelcelllabels.png)
+
+##Step 3 - Select the Cell to validate
+Click on cell B1
+![](b1.png)
+
+##Step 4 - Open Data Validation
+Select Data->Data Validation (![](datavalidationbutton.png)).
+![](datavalidation.png)
+
 <!-- Link to an excel spreadsheet -->
 
 <!-- Link to the Microsoft page on that is a different presentation of the same information -->

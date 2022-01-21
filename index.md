@@ -87,5 +87,7 @@ Select cell B6, then repeat Step 4 and enter the following information in the va
 ![](gradesettings.png)
 
 <!-- Link to an excel spreadsheet -->
+You can view the example spreadsheet (with the above steps completed) ![here]().
 
 <!-- Link to the Microsoft page on that is a different presentation of the same information -->
+For more information, instructions for the web version of Excel, and a different format of instructions on this tool, you can visit ![Microsoft's help page for the data validation tool](https://support.microsoft.com/en-us/office/apply-data-validation-to-cells-29fecbcc-d1b9-42c1-9d76-eff3ce5f7249#ID0EBBF=Windows).

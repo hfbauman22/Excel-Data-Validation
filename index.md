@@ -12,7 +12,7 @@ The data validation tool in Excel allows the creator of a spreadsheet to specify
 - Text length
 - Custom (a custom rule that you write)
 
-For certain Allow types, it makes sense to specify what range of data is permitted. For all options except list and custom, you may select a data range related to minimum and maximum values. You have the option of selecting a range of:
+For certain Allow types, it makes sense to specify what range of data is permitted. For all options except List and Custom, you may select a data range related to minimum and maximum values. You have the option of selecting a range of:
 - between
 - not between
 - equal to
@@ -23,8 +23,14 @@ For certain Allow types, it makes sense to specify what range of data is permitt
 - less than or equal to
 
 <!-- Talk about why it is a useful tool -->
+This tool is extremely useful for ensuring that your data is collected in the form that you expect. It prevents:
+1. An inattentive or unfamiliar user from entering a text comment in a cell that should have numerical data
+2. Some data entry errors that are easily detected, such as a value that is outside of the possible domain
 
+The data validation tool also allows you to enter an "input" and an "error" message. These allow you to prompt your user for the data that you are expecting to be entered in a given cell and to inform the user of what has gone wrong if they attempt to enter a disallowed value in the cell.
 
 <!-- Talk about how to use the tool -->
 
 <!-- Link to an excel spreadsheet -->
+
+<!-- Link to the Microsoft page on that is a different presentation of the same information -->

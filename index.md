@@ -30,6 +30,12 @@ This tool is extremely useful for ensuring that your data is collected in the fo
 The data validation tool also allows you to enter an "input" and an "error" message. These allow you to prompt your user for the data that you are expecting to be entered in a given cell and to inform the user of what has gone wrong if they attempt to enter a disallowed value in the cell.
 
 <!-- Talk about how to use the tool -->
+## Step 1 - Open Excel
+You should begin by opening Excel. If you have a specific spreadsheet that you wish to edit, you may open it or you can start a new spreadsheet.
+
+### Step 1a - Opening a blank workbook.
+If you are starting from scratch, you should open a blank workbook.
+![](excelopeningscreen.png)
 
 <!-- Link to an excel spreadsheet -->
 

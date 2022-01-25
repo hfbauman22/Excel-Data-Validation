@@ -95,6 +95,10 @@ If you desire, you can add messages prompting the user for the information you w
 ![](errormessage.png)
 ![](errorresult.png)
 
+## Acceptable and Unacceptable Data Entries
+In the second sheet of the linked spreadsheet (see below), you can see examples of acceptable and unacceptable data entries.
+
+
 ## Additional information and resources
 <!-- Link to an excel spreadsheet -->
 You can view the example spreadsheet (with the above steps completed) [here](ExampleSpreadsheet.xlsx).

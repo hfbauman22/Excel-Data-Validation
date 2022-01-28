@@ -72,7 +72,7 @@ Select cell B4, repeat Step 4 and enter the following information in the validat
 ![](datesettings.png)
 
 ## Step 9 - Date Formatting
-Select cell B4, then change the number format to "Short Date" by nagivating Home->General (dropdown)
+Select cell B4, then change the number format to "Short Date" by navigating Home->General (dropdown)
 
 ![](date.png)
 
